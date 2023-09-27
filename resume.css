@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(rgb(40, 26, 26),rgb(121, 18, 18));
+    font-family: Arial, sans-serif;
+    background-size:cover;
+    width: 100vw;
+    color:#ffffff;
+    
+}
+#cv-template{
+    display:none;
+}
+
+.myimg{
+    border-radius:50%;
+    width:150px;
+    height:150px;
+    object-fit:cover;
+    background:#d1c8c8;
+}
+.background{
+    background-image: linear-gradient(rgb(40, 26, 26),rgb(108, 23, 23));
+}
+h3{
+    color: #8c8591;
+}
